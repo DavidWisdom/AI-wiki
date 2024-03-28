@@ -16,6 +16,36 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://davidwisdom.github.io/en/ai/dl/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/ai/dl/cnn/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/ai/dl/rnn/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/ai/math/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/ai/math/optimization/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/ai/ml/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://davidwisdom.github.io/en/compiler/</loc>
          <lastmod>2024-03-28</lastmod>
          <changefreq>daily</changefreq>
@@ -71,6 +101,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://davidwisdom.github.io/en/llm/instructgpt/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/llm/llama/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://davidwisdom.github.io/en/multimodal/</loc>
          <lastmod>2024-03-28</lastmod>
          <changefreq>daily</changefreq>
@@ -106,12 +146,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://davidwisdom.github.io/en/nlp/transformer/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://davidwisdom.github.io/en/os/</loc>
          <lastmod>2024-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/en/rl/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/rl/dqn/</loc>
          <lastmod>2024-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
