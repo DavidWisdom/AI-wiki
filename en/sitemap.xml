@@ -51,7 +51,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://davidwisdom.github.io/en/design_pattern/</loc>
+         <loc>https://davidwisdom.github.io/en/cv/swin-transformer/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/design-pattern/</loc>
          <lastmod>2024-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -61,7 +66,42 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://davidwisdom.github.io/en/leetcode/3090/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/multimodal/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/multimodal/clip/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://davidwisdom.github.io/en/network/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/nlp/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/nlp/bert/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/nlp/gpt/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/nlp/t5/</loc>
          <lastmod>2024-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -76,7 +116,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://davidwisdom.github.io/en/self_driving/</loc>
+         <loc>https://davidwisdom.github.io/en/self-driving/</loc>
+         <lastmod>2024-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/en/self-driving/autoware/</loc>
          <lastmod>2024-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
