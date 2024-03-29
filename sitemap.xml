@@ -2,182 +2,302 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://davidwisdom.github.io/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/discussion/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/ai/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/ai/dl/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/ai/dl/cnn/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/ai/dl/rnn/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/ai/math/optimization/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/ai/ml/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/compiler/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/cpp/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/cv/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/cv/swin-transformer/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/database/</loc>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/design-pattern/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/design-pattern/construct/singleton/</loc>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/leetcode/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/leetcode/1/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/leetcode/2/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/leetcode/3/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/leetcode/3090/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/leetcode/4/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/leetcode/42/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/leetcode/45/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/leetcode/58/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/leetcode/84/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/leetcode/85/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/leetcode/string/sa/1044/</loc>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/llm/instructgpt/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/llm/llama/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/llm/llama2/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/multimodal/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/multimodal/albef/</loc>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/multimodal/blip/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/multimodal/clip/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/multimodal/dalle2/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/multimodal/vilt/</loc>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/network/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/network/network-layer/ip/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/network/transport-layer/udp/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/network/transport-layer/tcp/3/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/network/transport-layer/tcp/4/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/network/transport-layer/tcp/reliable/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/network/transport-layer/tcp/tcp/</loc>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/nlp/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/nlp/bert/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/nlp/gpt/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/nlp/t5/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/nlp/transformer/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/os/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/os/network/io/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/os/network/zerocopy/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/python/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/python/numpy/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/python/torch/</loc>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/rl/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/rl/dqn/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/self-driving/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://davidwisdom.github.io/self-driving/autoware/</loc>
-         <lastmod>2024-03-28</lastmod>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/self-driving/autoware/open_planner/</loc>
+         <lastmod>2024-03-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://davidwisdom.github.io/self-driving/autoware/computing/open_planner/</loc>
+         <lastmod>2024-03-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
